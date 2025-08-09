@@ -1,0 +1,21 @@
+{
+  "arrowParens": "avoid",
+  "bracketSameLine": false,
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "objectWrap": "preserve",
+  "printWidth": 80,
+  "jsxSingleQuote": false,
+  "useTabs": false,
+  "trailingComma": "all",
+  "singleQuote": false,
+  "semi": true,
+  "quoteProps": "as-needed",
+  "experimentalTernaries": true,
+  "tabWidth": 2,
+  "plugins": [
+    "prettier-plugin-organize-imports",
+    "prettier-plugin-tailwindcss"
+  ],
+  "tailwindStylesheet": "@workspace/ui/globals.css"
+}

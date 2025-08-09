@@ -1,0 +1,12 @@
+{
+  "name": "@workspace/typescript-config",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./api.json": "./api.json",
+    "./base.json": "./base.json",
+    "./next.json": "./next.json",
+    "./ui.json": "./ui.json"
+  }
+}
